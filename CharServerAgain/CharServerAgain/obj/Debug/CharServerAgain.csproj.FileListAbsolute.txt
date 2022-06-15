@@ -1,0 +1,14 @@
+C:\Users\STUDENT\source\repos\CharServerAgain\CharServerAgain\bin\Debug\CharServerAgain.exe.config
+C:\Users\STUDENT\source\repos\CharServerAgain\CharServerAgain\bin\Debug\CharServerAgain.exe
+C:\Users\STUDENT\source\repos\CharServerAgain\CharServerAgain\bin\Debug\CharServerAgain.pdb
+C:\Users\STUDENT\source\repos\CharServerAgain\CharServerAgain\obj\Debug\CharServerAgain.csprojAssemblyReference.cache
+C:\Users\STUDENT\source\repos\CharServerAgain\CharServerAgain\obj\Debug\CharServerAgain.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\source\repos\CharServerAgain\CharServerAgain\obj\Debug\CharServerAgain.exe
+C:\Users\STUDENT\source\repos\CharServerAgain\CharServerAgain\obj\Debug\CharServerAgain.pdb
+C:\Users\STUDENT\Desktop\CharServerAgain\CharServerAgain\bin\Debug\CharServerAgain.exe.config
+C:\Users\STUDENT\Desktop\CharServerAgain\CharServerAgain\bin\Debug\CharServerAgain.exe
+C:\Users\STUDENT\Desktop\CharServerAgain\CharServerAgain\bin\Debug\CharServerAgain.pdb
+C:\Users\STUDENT\Desktop\CharServerAgain\CharServerAgain\obj\Debug\CharServerAgain.csproj.AssemblyReference.cache
+C:\Users\STUDENT\Desktop\CharServerAgain\CharServerAgain\obj\Debug\CharServerAgain.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\CharServerAgain\CharServerAgain\obj\Debug\CharServerAgain.exe
+C:\Users\STUDENT\Desktop\CharServerAgain\CharServerAgain\obj\Debug\CharServerAgain.pdb
